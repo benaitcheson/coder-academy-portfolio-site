@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+    background-color: #444140;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1, h2 {
+    color: #f7ebe8;
+}
+
+
+
+/* 992 pixels min width  */
+
+/* Color Palette
+
+White: #f7ebe8
+Light Salmon: #ffa987
+Red: #e54b4b
+Grey: #444140
+Black: #1e1e24 */
