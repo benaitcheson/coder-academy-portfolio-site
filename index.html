@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Page</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Ben Aitcheson | My Portfolio Site</title>
+    <link rel="stylesheet" href="css/style.css" media="screen" title="Primary Stylesheet"/>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-03BZ7QNTK6"></script>
@@ -32,20 +32,67 @@
                 <div class="bar3"></div>
             </div>
         </div>
-
-        
-
     </nav>
 
     <h1>Web Development Services</h1>
     <h2>Specialising in mobile development and business advice. If you're looking for a website, contact me here.</h2>
 
-   <!-- Message Me Form -->
+    <!-- Projects Slideshow -->
+    <div class="slideshow-container">
+
+        <div class="mySlides">
+            <p>Insert Project 1 here</p>
+            <p class="projectText">Text for Project 1</p>
+        </div>
+
+        <div class="mySlides">
+            <p>Insert Project 2 here</p>
+            <p class="projectText">Text for Project 2</p>
+        </div>
+
+        <div class="mySlides">
+            <p>Insert Project 3 here</p>
+            <p class="projectText">Text for Project 3</p>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+        <div class="dot-container">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+
+    </div>    
+    
+    <!-- Message Me Form -->
+
+    <div class="contact-container">
+        <div style="text-align:center">
+            <h2>Contact Me</h2>
+            <p>Swing me a message about anything:</p>
+        </div>
+        <div class="row">
+            <div class="column">
+                <form action="/action_page.php">
+                    <label for="fname">Name</label>
+                    <input type="text" id="fname" name="name" placeholder="Your name..">
+                    <label for="email">Email</label>
+                    <input type="text" id="email" name="email" placeholder="Your E-Mail address..">
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write a message.." style="height: 170px;"></textarea>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+    </div>
 
 
 
 
 
-    <script src="./javascript.js"></script>
+
+<script src="./javascript.js"></script>
 </body>
 </html>
