@@ -1,6 +1,7 @@
 html {
     box-sizing: border-box;
     background-color: #444140;
+    /* background-image: linear-gradient(180deg, red, yellow); */
 }
 
 *, *:before, *:after {
@@ -20,7 +21,7 @@ h1, h2 {
 
 .topnav a {
     float: left;
-    color: ;
+    color: #f7ebe8;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -28,12 +29,12 @@ h1, h2 {
 }
 
 .topnav a:hover {
-    background-color: ;
+    background-color: #f7ebe8;
     color: black;
 }
 
 .topnav a.active {
-    background-color: ;
+    background-color: #ffa987;
     color: white;
 }
 
@@ -43,6 +44,8 @@ h1, h2 {
 .container {
     display: inline-block;
     cursor: pointer;
+    float: right;
+    padding-right: 10px;
 }
 
 .bar1, .bar2, .bar3 {
@@ -68,10 +71,16 @@ h1, h2 {
 }
 
 
+/* Media Queries for iPad */
 
 
 
-/* 992 pixels min width  */
+
+
+
+
+
+/* 992px min width then 600px for phone  */
 
 /* Color Palette
 
