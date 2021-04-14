@@ -141,6 +141,10 @@ h1, h2 {
 
 /* Message me Form */
 
+.contact-heading {
+    text-align: center;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
@@ -163,10 +167,17 @@ input[type=submit]:hover {
 }
 
 .contact-container {
-    /* border-radius: 5px; */
     padding: 10px;
 }
 
+
+/* Footer */
+
+footer {
+    text-align: center;
+    padding: 60px;
+    color: #f7ebe8;
+}
 
 
 /* Media Queries */
