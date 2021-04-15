@@ -17,6 +17,9 @@ h1, h2, p {
     color: #f7ebe8;
 }
 
+.mySlides p {
+    color: black;
+}
 
 /* Top Navigation */
 
