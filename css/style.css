@@ -174,11 +174,31 @@ input[type=submit]:hover {
 }
 
 
+/* Blog Grid */
+
+.blog-container {
+    display: grid;
+    grid-gap: 50px;
+    border: 10px;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.blog-item {
+    grid-column: span 3 / 5 ;
+    background: #ffa987;
+    margin-top: 50px;
+}
+
 /* Footer */
 
 footer {
     text-align: center;
     padding: 60px;
+    color: #f7ebe8;
+}
+
+.fab {
+    margin: 0 10px 0 10px;
     color: #f7ebe8;
 }
 

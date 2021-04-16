@@ -3,6 +3,9 @@
 
 My name is Ben Aitcheson. I live in Brisbane, Australia and this is a readme file for my portfolio. 
 
+
+This portfolio was buit to showcase my work. It was also designed to be an online platform for people to get in contact with me.
+
 This porfolio is built with HTML and CSS with a tiny amount of Javascipt added.
 
 [My Portfolio site deployed through Netlify][1]
