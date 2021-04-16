@@ -6,6 +6,18 @@ function myFunction(x) {
 }
 
 
+// Only show hamburger after screen size goes under 600px
+
+function myFirstFunction() {
+    var a = document.getElementById("myTopnav");
+    if (a.className === "topnav") {
+      a.className += "responsive";
+    } else {
+      a.className = "topnav";
+    }
+  }
+
+
 // Make the slideshow work
 
 var slideIndex = 1;
