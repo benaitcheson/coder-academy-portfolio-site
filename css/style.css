@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background-color: #444140;
+    background-color: #f7ebe8;
     height: 100%;
 }
 
@@ -35,8 +35,8 @@ footer, article::after {
     box-sizing: inherit;
 }
 
-h1, h2, p {
-    color: #f7ebe8;
+h1, h2 {
+    color: #1e1e24;
 }
 
 .mySlides p {
