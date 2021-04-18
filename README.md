@@ -1,3 +1,10 @@
+<img src="https://img.shields.io/netlify/9226998f-7a02-479c-b33a-bd4ee87f8601?style=flat-square">
+<img src="https://img.shields.io/tokei/lines/github/benaitcheson/portfolio-site?style=flat-square">
+<img src="https://img.shields.io/github/languages/code-size/benaitcheson/portfolio-site?style=flat-square">
+<img src="https://img.shields.io/github/downloads/benaitcheson/portfolio-site/total?style=flat-square">
+<img src="https://img.shields.io/github/followers/benaitcheson?style=social">
+
+
 # Coder Academy - Portfolio Site
 ## Assignment 2 - Term 1
 

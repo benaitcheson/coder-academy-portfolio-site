@@ -11,6 +11,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+/* Sticky Footer CSS */
+
 article {
     min-height: 80%;
     margin-bottom: -100px;
@@ -22,8 +25,11 @@ article::after {
 }
 
 footer, article::after {
-    height: 100px;
+    height: 250px;
 }
+
+
+/* General CSS */
 
 *, *:before, *:after {
     box-sizing: inherit;
@@ -258,6 +264,7 @@ footer {
     text-align: center;
     padding: 60px;
     color: #f7ebe8;
+    background-color: #1e1e24;
 }
 
 .fab {
