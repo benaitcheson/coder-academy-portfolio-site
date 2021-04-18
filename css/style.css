@@ -1,12 +1,28 @@
 html {
     box-sizing: border-box;
     background-color: #444140;
+    height: 100%;
 }
 
 body {
     margin: 0px;
+    height: 100%;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    min-height: 80%;
+    margin-bottom: -100px;
+}
+
+article::after {
+    content: "";
+    display: block;
+}
+
+footer, article::after {
+    height: 100px;
 }
 
 *, *:before, *:after {
@@ -224,14 +240,15 @@ input[type=submit]:hover {
 .blog-container {
     display: grid;
     grid-gap: 50px;
-    border: 10px;
+    margin: 20px;
     grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 500px);
 }
 
 .blog-item {
     grid-column: span 3 / 5 ;
     background: #ffa987;
-    margin-top: 50px;
+    place-items: center center;
 }
 
 
