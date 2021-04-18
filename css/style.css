@@ -147,7 +147,7 @@ h1, h2 {
 
 /* Slideshow */
 
-.slideshow-container {
+/* .slideshow-container {
     position: relative;
     background: white;
 }
@@ -202,7 +202,7 @@ h1, h2 {
 
 .active, .dot:hover {
     background-color: #717171;
-}
+} */
 
 
 /* Message me Form */
@@ -237,13 +237,9 @@ input[type=submit]:hover {
 }
 
 
-
-
-
-
 /* Blog Grid */
 
-.blog-container {
+.blog-container, .portfolio-container {
     display: grid;
     grid-gap: 50px;
     margin: 20px;
@@ -251,7 +247,7 @@ input[type=submit]:hover {
     grid-template-rows: repeat(5, 500px);
 }
 
-.blog-item {
+.blog-item, .portfolio-item {
     grid-column: span 3 / 5 ;
     background: #ffa987;
     place-items: center center;
@@ -288,7 +284,34 @@ footer {
 }
 
 
+/* Projects page CSS Grid */
 
+.myProjects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    margin: 20px;
+  }
+  
+  .proj {
+    background: #444140;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    grid-gap: 10px;
+    align-items: center;
+    color: #f7ebe8;
+  }
+  
+  .proj__artwork {
+    width: 100%;
+  }
+  
+  .proj:hover {
+    opacity: 0.75;
+  }
+
+  
 
 
 

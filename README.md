@@ -8,11 +8,9 @@
 # Coder Academy - Portfolio Site
 ## Assignment 2 - Term 1
 
-My name is Ben Aitcheson. I live in Brisbane, Australia and this is a readme file for my portfolio. 
 
 [My Portfolio site deployed through Netlify][1]
 
-[My Github account][2]
 
 ## Purpose
 Include target auidence
@@ -43,11 +41,23 @@ Turns out making a responsive top nav bar with media queries is harder then I fi
 
 ## Technical Description & Set-up
 
-There is no setup or dependancies required. Simply follow the link to view my portfolio on the web.
+There is no setup or dependancies required. Simply follow [the link][1] to view my portfolio on the web
 
+## Authors
 
+Ben Aitcheson - [My Github account][2]
+
+## Acknowledgments
+
+Thanks to the team at Coder Academy for their support.
+
+Video tutorials used to contribute are:
+1. [freeCodeCamp][3]
+1. [Wes Bos][4]
 
 
 
 [1]: https://priceless-jackson-e53021.netlify.app/
 [2]: https://github.com/benaitcheson
+[3]: https://www.freecodecamp.org/
+[4]: https://wesbos.com/
