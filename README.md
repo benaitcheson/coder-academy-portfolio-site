@@ -12,11 +12,21 @@ This porfolio is built with HTML and CSS with a tiny amount of Javascipt added.
 
 [My Github account][2]
 
-I have 
-HTML
-CSS
-Javascript
+I have used the following languages to build this site:
+1. HTML
+1. CSS
+1. Javascript
+
 Sitemap
+
+### Problems Faced
+
+Turns out making a responsive top nav bar with media queries is harder then I first imagined.
+
+
+### Technical Description & Set-up
+
+There is no setup or dependancies required. Simply follow the link to view my portfolio on the web.
 
 [1]: https://priceless-jackson-e53021.netlify.app/
 [2]: https://github.com/benaitcheson
