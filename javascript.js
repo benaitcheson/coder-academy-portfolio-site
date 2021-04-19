@@ -1,68 +1,12 @@
 
-// Make the Hamburger cross over
+// Responsive Top Nav
 
-function myFunction(x) {
-    x.classList.toggle("change");
-}
-
-
-// Only show hamburger after screen size goes under 600px
-
-function myFirstFunction() {
-    var a = document.getElementById("myTopnav");
-    if (a.className === "topnav") {
-      a.className += "responsive";
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
     } else {
-      a.className = "topnav";
+      x.className = "topnav";
     }
   }
-
-
-// Projects
-
-function whichElement(e) {
-    var targ;
-    if (!e) {
-        var e = window.event;
-    }
-    if (e.target) {
-        targ=e.target;
-    } else if (e.srcElement) {
-        targ=e.srcElement;
-    }    
-    alert("I still need to fill these projects.");
-}
-
-
-
-
-
-// Make the slideshow work
-
-// var slideIndex = 1;
-// showSlides(slideIndex);
-
-// function plusSlides(n) {
-//     showSlides(slideIndex += n);
-// }
-
-// function currentSlide(n) {
-//     showSlides(slideIndex = n);
-// }
-
-// function showSlides(n) {
-//     var i;
-//     var slides = document.getElementsByClassName("mySlides");
-//     var dots = document.getElementsByClassName("dot");
-//     if (n > slides.length) {slideIndex = 1}
-//         if (n < 1) {slideIndex = slides.length}
-//         for (i = 0; i < slides.length; i++) {
-//             slides[i].style.display = "none";
-//         }
-//         for (i = 0; i < dots.length; i++) {
-//             dots[i].className = dots[i].className.replace(" active", "");
-//         }
-//     slides[slideIndex-1].style.display = "block";
-//     dots[slideIndex-1].className += " active";
-// }
 
