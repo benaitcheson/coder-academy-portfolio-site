@@ -13,7 +13,7 @@
 
 
 ## Purpose
-This portfolio was buit to showcase my work. It was also designed to be an online platform for people and protential clients to get in contact with me.
+This portfolio was buit to showcase my work to potential clients and a source for anyone to get in contact with me.
 
 ## Tech Stack
 I have used the following languages to build this site:
