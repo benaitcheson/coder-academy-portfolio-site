@@ -13,25 +13,31 @@
 
 
 ## Purpose
-Include target auidence
-
-This portfolio was buit to showcase my work. It was also designed to be an online platform for people to get in contact with me.
+This portfolio was buit to showcase my work. It was also designed to be an online platform for people and protential clients to get in contact with me.
 
 ## Tech Stack
-html, css, deployment platform, et
-
 I have used the following languages to build this site:
 1. HTML5
-2. CSS3
-3. Javascript (ES6)
+1. CSS3
+1. Javascript (ES6)
 
+As well as deployment through Netlify using my [Git Repository][2]
 
 ## Functionality & Features
-Include Screenshots
+
+Here are some features I have added to my website:
+
+1. Responsive top nav bar
+1. CSS Grid for portfolio
+1. Contact me form through Netlify
+1. Sticky footer
 
 
 ## Sitemap
 
+Here is my Sitemap
+
+![My Sitemap](Sitemap.png)
 
 
 ## Problems Faced
