@@ -112,6 +112,10 @@ h1, h2 {
     padding-bottom: 100px;
 }
 
+.AboutMe img {
+    border-radius: 50%;
+}
+
 
 /* Message me Form */
 
@@ -140,16 +144,10 @@ input[type=submit]:hover {
     opacity: 0.9;
 }
 
-/* .contact-container {
-    padding: 10px;
-    max-width: 600px;
-    margin: auto;
-    width: 50%;
-} */
-
 @media only screen and (max-width: 600px) {
     .contact-container {
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
         width: 90%;
     } 
 }
@@ -158,8 +156,8 @@ input[type=submit]:hover {
     .contact-container {
         padding: 10px;
         max-width: 600px;
-        margin: auto;
-        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
     } 
 }
 
