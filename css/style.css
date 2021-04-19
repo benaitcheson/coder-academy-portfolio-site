@@ -140,11 +140,27 @@ input[type=submit]:hover {
     opacity: 0.9;
 }
 
-.contact-container {
+/* .contact-container {
     padding: 10px;
     max-width: 600px;
     margin: auto;
     width: 50%;
+} */
+
+@media only screen and (max-width: 600px) {
+    .contact-container {
+        margin: auto;
+        width: 90%;
+    } 
+}
+
+@media only screen and (min-width: 600px) {
+    .contact-container {
+        padding: 10px;
+        max-width: 600px;
+        margin: auto;
+        width: 600px;
+    } 
 }
 
 
@@ -195,21 +211,6 @@ footer {
 }
 
 
-/* Media Queries */
-
-@media only screen and (min-width: 600px) {
-
-}
-
-@media only screen and (min-width: 768px) {
-
-}
-
-@media only screen and (min-width: 992px) {
-
-}
-
-
 /* Projects page CSS Grid */
 
 .myProjects {
@@ -242,12 +243,6 @@ footer {
   }
 
   
-
-
-
-
-
-/* 992px min width then 600px for phone  */
 
 /* Color Palette
 
