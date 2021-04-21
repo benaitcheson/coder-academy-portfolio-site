@@ -164,11 +164,15 @@ input[type=submit]:hover {
 
 /* Blog page CSS Grid */
 
+.grid {
+    display: grid;
+    grid-template-columns: 150px auto 150px;
+    grid-gap: 1em;
+}
+
 .myBlogs {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 20px;
-    margin: 20px;
 }
   
 .blog {
