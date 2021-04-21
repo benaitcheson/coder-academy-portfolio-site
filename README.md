@@ -6,10 +6,10 @@
 
 
 # Coder Academy - Portfolio Site
-## Assignment 2 - Term 1
+## Assignment 2 - Term 1 (A2T1)
 
 
-[My Portfolio site deployed through Netlify][1]
+[Here is my Portfolio site deployed through Netlify][1]
 
 
 ## Purpose
@@ -21,7 +21,8 @@ I have used the following languages to build this site:
 1. CSS3
 1. Javascript (ES6)
 
-As well as deployment through Netlify using my [Git Repository][2]
+As well as deployment through Netlify using my [Github Repository.][2]
+Version control was done with git.
 
 ## Functionality & Features
 
