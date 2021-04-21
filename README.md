@@ -22,23 +22,26 @@ I have used the following languages to build this site:
 1. Javascript (ES6)
 
 As well as deployment through Netlify using my [Github Repository.][2]
-Version control was done with git.
+Version control was done with git in the terminal.
 
 ## Functionality & Features
 
 Here are some features I have added to my website:
 
-1. Responsive top nav bar
-1. CSS Grid for portfolio
-1. Contact me form through Netlify
-1. Sticky footer
+1. Responsive top nav bar with collapsable hamburger menu for mobile.
+1. CSS Grid for portfolio.
+1. Contact me form (through Netlify).
+1. Sticky footer with socials.
+1. Google Analytics.
+
+
 
 
 ## Sitemap
 
-Here is my Sitemap
+Here is my Sitemap. All pages can be accessed through the top navigation bar.
 
-![My Sitemap](Sitemap.png)
+![My Sitemap](Sitemap.pdf)
 
 
 ## Problems Faced
