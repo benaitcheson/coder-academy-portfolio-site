@@ -50,7 +50,7 @@ Here is my Sitemap. All pages can be accessed through the top navigation bar.
 
 ## Problems Faced
 
-Turns out making a responsive top nav bar with media queries is harder then I first imagined.
+Turns out making a responsive top nav bar with media queries is harder then I first imagined. Also CSS was a bit tricky to navigate at first but courses from [Wes Bos][4] and [freeCodeCamp][3] made things easier.
 
 
 ## Technical Description & Set-up
