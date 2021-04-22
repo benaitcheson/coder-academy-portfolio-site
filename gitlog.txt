@@ -1,0 +1,269 @@
+commit fe3fcb8b9628fba49dde07f84fb7a63d74235227
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 16:28:03 2021 +1000
+
+    SRI take two
+
+commit 377e07c1d9e98385cc003c7a7e0fc7ecb0ad595d
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 16:19:11 2021 +1000
+
+    add SRI
+
+commit 4c2049b884b93573d9297a92935a2e02c8622cdd
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 11:54:31 2021 +1000
+
+    Finished Readme files
+
+commit 61b5f3d6080652f2f1a646607f6a9d68d7e10b48
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 11:10:26 2021 +1000
+
+    Test 2 for markdown image
+
+commit 5a1c6dbcee4f0e48a685d8abb2dc3ab781da59c7
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 11:06:33 2021 +1000
+
+    Test markdown image size
+
+commit ef05a267dac605556f91740b618309fe2a2d5f80
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 10:51:48 2021 +1000
+
+    Updated readme and amended Screenshot names
+
+commit 84846e3d609b890bdc921cb5bcb8e2762339dd56
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 22 10:30:40 2021 +1000
+
+    Amended Contact me details
+
+commit 1c0d26b2edfe597eae120c6055d65e8c6980a76b
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 21 12:37:03 2021 +1000
+
+    Added sitemap to git repo
+
+commit 24414129466c8403cfe0d8d8b0c073084efe6408
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 21 12:30:36 2021 +1000
+
+    Amended readme and blog page grid
+
+commit 5dcd74b1df922d24aad7641b757ad9f9b89e33b8
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 21 11:23:53 2021 +1000
+
+    blog page is now grid
+
+commit f6bb5becf1f382f796500d8b54f12e804577d957
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 16:23:33 2021 +1000
+
+    amended profile picture
+
+commit 8dcf69c90be7137a737a744646a3ce0b04d30e4e
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 15:14:47 2021 +1000
+
+    Fixed contact form
+
+commit cc9c81169dc843d061bbc2dc2250c57ff0a4f437
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 15:07:33 2021 +1000
+
+    Added a picture of myself
+
+commit e7f5be7b6ea504854671968bf07fe6e7bca6e66a
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 15:05:21 2021 +1000
+
+    Amended about me section
+
+commit 9770b235502a469b5395381fbb1d02d6c2ed2d93
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 14:36:28 2021 +1000
+
+    Top nav fixed
+
+commit 92befbbac22ad85f5ac18b22accf25317e6cc6ab
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 14:23:15 2021 +1000
+
+    Fixing nav bar
+
+commit 016c7dcae1a000bdd12808a35a1b23253bf46efc
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 14:00:38 2021 +1000
+
+    Wireframes added
+
+commit 826319ce3568d1c7ede7b007078eda83f01d1509
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 13:17:38 2021 +1000
+
+    Added sections to the readme file
+
+commit 95813baec4427deec398c1bfd7a77b28a0e0ded9
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 11:21:43 2021 +1000
+
+    Amended Blog layout
+
+commit 233c08f66fa9032066461b35eeb7f3530d8584af
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 10:20:13 2021 +1000
+
+    amended sitemap file
+
+commit aef20a43a053a5c5d00bece64dc887f0c9a5ee63
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 10:14:33 2021 +1000
+
+    added xml file
+
+commit 2eaa51bab44c2babc1853881f1daf6143f9df1c0
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 09:59:20 2021 +1000
+
+    Added credit for photos on portfolio
+
+commit cc7d4e7a95abd3d51964a5e1530a7b5801b30bb2
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 09:44:01 2021 +1000
+
+    added photos to projects
+
+commit 70ad415f52e124417daf86d0597f8cc3bc7c809a
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 19 09:15:55 2021 +1000
+
+    Added CSS Grid to projects page
+
+commit c21a5de59116ff8fd9f8e29b3f518da12a1e5882
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Sun Apr 18 19:02:01 2021 +1000
+
+    Changed background
+
+commit 82bfd79c0b7d728069a44b355a11ae24ffe355c2
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Sun Apr 18 18:45:19 2021 +1000
+
+    Added Shields to the readme
+
+commit 483b1e20c352a7f79534724d5e5f98ac2d890a1b
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Sun Apr 18 15:33:36 2021 +1000
+
+    Added sticky footer
+
+commit 95c0a03dfa1a17b8903598d9674d149fa2b04ee0
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Sun Apr 18 11:16:20 2021 +1000
+
+    Text amendments to home page
+
+commit 60443fc729b098caef004ecdc77779152dbf0f1e
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Fri Apr 16 23:03:06 2021 +1000
+
+    Amendments to navbar
+
+commit c08d45f99e5a07d79b722d1083194a19e3ab2f17
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Fri Apr 16 22:13:13 2021 +1000
+
+    Added CSS Grid to blog page
+
+commit 83d399ba7cce2897c28451eb77df25e7188da143
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 15 17:51:53 2021 +1000
+
+    Amended html page order
+
+commit 4ef0756d6f0c236c905b159b58e92295352db7b0
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 15 17:49:45 2021 +1000
+
+    Amended Readme file
+
+commit 745537251feb7456047ff6bedcba817838cbfc99
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 14 14:14:59 2021 +1000
+
+    form updated
+
+commit 55cd9b7802544672e13e33c1a80b67df7a35287f
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 14 14:09:15 2021 +1000
+
+    Added footer to all pages
+
+commit 882ed841392ddae880f636077bcc92823ad2b40e
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 14 11:23:01 2021 +1000
+
+    Added Message me form
+
+commit 54fb2959aad374c818018cf81941ae4bdaa677ed
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Wed Apr 14 08:50:13 2021 +1000
+
+    Added Project Slideshow
+
+commit aa6ab12adedb87c905d95d2dfb8c456496fddd61
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Tue Apr 13 10:32:48 2021 +1000
+
+    Added navbar to all pages
+
+commit 981a29bee35c1280bb52878ba2f53d4e68387bd4
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Mon Apr 12 17:15:53 2021 +1000
+
+    Added hamburger menu and topnav
+
+commit 86011d7a462e1d514d63e9f67ab7f00e05eb93bf
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Fri Apr 9 10:44:12 2021 +1000
+
+    Added Google Analytics to all pages
+
+commit 418287aa29237d91f6e34d143755261668a29fe8
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 8 15:24:38 2021 +1000
+
+    added Google Analytics
+
+commit c9fad73331cf9627bb42c37425add135882d43fa
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 8 14:50:22 2021 +1000
+
+    New html files created
+
+commit 4c7cf8d83e8f8a9975f1b570b10e0567ec9a74df
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 8 10:39:22 2021 +1000
+
+    Second change test
+
+commit 983638af4beb92ef176d402ca858268afd7f229f
+Author: benaitcheson <benaitcheson@hotmail.com>
+Date:   Thu Apr 8 10:35:47 2021 +1000
+
+    Added Title
+
+commit 7a51fa8ac1549500c303ba5789f6943f9a797b72
+Author: Nandini Nayak <nandini.r.nayak@gmail.com>
+Date:   Wed Apr 7 08:38:41 2021 +1000
+
+    initial commit
+
+commit c022eb3d74f1d13a747d7ec95ecf4fb53e52d72b
+Author: NandiniNayak <nandini.r.nayak@gmail.com>
+Date:   Wed Apr 7 08:35:15 2021 +1000
+
+    Initial commit
