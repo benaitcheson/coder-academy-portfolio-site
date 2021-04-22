@@ -21,7 +21,7 @@ I have used the following languages to build this site:
 1. CSS3
 1. Javascript (ES6)
 
-As well as deployment through Netlify using my [Github Repository.][2]
+As well as deployment through [Netlify][5] using my [Github Repository.][2]
 Version control was done with git in the terminal.
 
 ## Functionality & Features
@@ -33,15 +33,19 @@ Here are some features I have added to my website:
 1. Contact me form (through Netlify).
 1. Sticky footer with socials.
 1. Google Analytics.
+1. Download link for my Resume.
 
 
+
+Here is a screenhot of the navbar in moblie view:
+![Mobile Hamburger Menu]()
 
 
 ## Sitemap
 
 Here is my Sitemap. All pages can be accessed through the top navigation bar.
 
-![My Sitemap](Sitemap.pdf)
+![My Sitemap](SitemapCropped.png)
 
 
 ## Problems Faced
@@ -71,3 +75,4 @@ Video tutorials used to contribute are:
 [2]: https://github.com/benaitcheson
 [3]: https://www.freecodecamp.org/
 [4]: https://wesbos.com/
+[5]: https://www.netlify.com/
