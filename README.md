@@ -38,8 +38,10 @@ Here are some features I have added to my website:
 
 
 Here is a screenhot of the navbar in moblie view:
-![Mobile Hamburger Menu]()
+![Mobile Hamburger Menu](./Mobile%20Screenshot%20-%20Index.png =100)
 
+Verse on the Desktop version:
+![Desktop Hamburger Menu](./Desktop%20Screenshot%20-%20Index.png)
 
 ## Sitemap
 
