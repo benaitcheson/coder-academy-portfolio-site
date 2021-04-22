@@ -35,13 +35,32 @@ Here are some features I have added to my website:
 1. Google Analytics.
 1. Download link for my Resume.
 
+I will now go through screenshots of these features.
 
 
-Here is a screenhot of the navbar in moblie view:
+Here is a screenhot of the responsive navbar in moblie view:
+
 <img src="./Mobile%20Screenshot%20-%20Index.png" alt="Mobile View of Index page" width="200"/>
 
 Verse on the Desktop version:
+
 ![Desktop Hamburger Menu](./Desktop%20Screenshot%20-%20Index.png)
+
+
+Here is how CSS Grid changes with different viewport widths.
+
+For mobile view:
+
+<img src="./Mobile%20Screenshot%20-%20Projects.png" alt="Mobile View of Projects page" width="200"/>
+
+And here is the desktop view:
+
+![Desktop Projects Page](Desktop%20Screenshot%20-%20Projects.png)
+
+Next up is my contact form. This was implemented through Netlify. Although I don'ty recieve emails for each notification using Netlify was really easy to setup. You can also see on this screenshot my resume download link.
+
+<img src="./Mobile%20Screenshot%20-%20About%20Me.png" alt="Mobile View of Contact me form" width="200"/>
+
 
 ## Sitemap
 
